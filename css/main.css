@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+#searchField {
+  margin: 0.8rem 0;
+}
+
+.card {
+  margin-top: 1rem;
+}
+
+.alert-danger {
+  margin-top: 1rem;
+}
